@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1601602492 source:c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1\western hut\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<algorithm>
+	"Reservation.h"
+	"TableReservation.h"
+
+1601603726 c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1\western hut\reservation.h
+	<iostream>
+	<list>
+	<iterator>
+	<fstream>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<stack>
+
+1601604186 c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1\western hut\tablereservation.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<list>
+	<sstream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	"Reservation.h"
+
+1601611699 source:c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1 (2)\1\western hut\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<algorithm>
+	"Reservation.h"
+	"TableReservation.h"
+
+1601610471 c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1 (2)\1\western hut\reservation.h
+	<iostream>
+	<list>
+	<iterator>
+	<fstream>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<stack>
+
+1601613930 c:\users\user\documents\mmu study\2010\data struc and algorithms\project\1 (2)\1\western hut\tablereservation.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<list>
+	<sstream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	"Reservation.h"
+
+1601611700 source:c:\users\pendy\downloads\western hut (1)\western hut\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<algorithm>
+	"Reservation.h"
+	"TableReservation.h"
+
+1601621277 c:\users\pendy\downloads\western hut (1)\western hut\reservation.h
+	<iostream>
+	<list>
+	<iterator>
+	<fstream>
+	<vector>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<stack>
+
+1601621277 c:\users\pendy\downloads\western hut (1)\western hut\tablereservation.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<list>
+	<sstream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	"Reservation.h"
+
+1601621277 source:c:\users\pendy\downloads\western hut (1)\western hut\tablereservation.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+	<list>
+	<sstream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<stack>
+	"Reservation.h"
+	"TableReservation.h"
+
