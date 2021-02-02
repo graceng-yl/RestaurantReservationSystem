@@ -1,4 +1,4 @@
-# Online Restaurant Reservation System
+# Restaurant Reservation System
 
 --Running instruction--
 1. Run createdate.cpp before running the program.
